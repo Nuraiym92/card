@@ -1,4 +1,5 @@
 window.addEventListener("DOMContentLoaded", function () {
+  alert("Я оцениваю свою работу на 100баллов");
   const card = document.createElement("div");
   const img = document.createElement("img");
   const cardTitle = document.createElement("h3");
